@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Analyzing data with passion since 2019<br>📊 Currently immersed in learning Data Analytics & Science<br>🎯 2023 Goals: Mastering skills in data manipulation and analysis<br>🔍 Fun fact: I dive into coding to uncover insights from data :)</p>
+<p align="left">✨ Analyzing data with passion since 2019<br>📊 Currently immersed in learning Data Analytics & Science<br>🎯 2023 Goals: Mastering skills in computer vision, image manipulation, and analysis.s<br>🔍 Fun fact: I dive into coding to uncover insights from data :)</p>
 
 ###
 
