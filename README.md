@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 Currently learning NodeJs & Blockchain<br>🎯 2023 Goals: to get over MERN <br>🎲 Fun fact: I only code to get Placed :)</p>
+<p align="left">✨ Analyzing data with passion since 2019<br>📊 Currently immersed in learning Data Analytics & Science<br>🎯 2023 Goals: Mastering skills in data manipulation and analysis<br>🔍 Fun fact: I dive into coding to uncover insights from data :)</p>
 
 ###
 
