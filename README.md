@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">BaaS & Database</h2>
+<h2 align="left"> Database</h2>
 
 ###
 
@@ -60,3 +60,14 @@
 
 
 ###
+<h2 align="left"> Visualization tools</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerbi/microsoftpowerbi-plain.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" height="40" alt="Microsoft Excel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlesheets/googlesheets-plain.svg" height="40" alt="Google Sheets logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg" height="40" alt="Tableau logo" />
+</div>
+
