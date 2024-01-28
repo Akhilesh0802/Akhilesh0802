@@ -62,13 +62,15 @@
 ###
 <h2 align="left"> Visualization tools</h2>
 <div align="left">
-  <img src="https://example.com/powerbi-logo.png" height="40" alt="Power BI logo" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgc3R5bGU9ImZpbGw6cmdiKDI1NSwyNTUsMjU1KTsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iIzJCMkMyQyI+PGc+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJ3aGl0ZSIvPjwvZz48L3N2Zz4=" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://example.com/excel-logo.png" height="40" alt="Microsoft Excel logo" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgc3R5bGU9ImZpbGw6cmdiKDI1NSwyNTUsMjU1KTsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iIzAwNjAxMCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJ3aGl0ZSIvPjwvZz48L3N2Zz4=" height="40" alt="Microsoft Excel logo" />
   <img width="12" />
-  <img src="https://example.com/googlesheets-logo.png" height="40" alt="Google Sheets logo" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgc3R5bGU9ImZpbGw6cmdiKDI1NSwyNTUsMjU1KTsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iIzAwNjAxMCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJ3aGl0ZSIvPjwvZz48L3N2Zz4=" height="40" alt="Google Sheets logo" />
   <img width="12" />
-  <img src="https://example.com/tableau-logo.png" height="40" alt="Tableau logo" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgc3R5bGU9ImZpbGw6cmdiKDI1NSwyNTUsMjU1KTsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iIzAwNjAxMCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJ3aGl0ZSIvPjwvZz48L3N2Zz4=" height="40" alt="Tableau logo" />
 </div>
+
+
 
 
