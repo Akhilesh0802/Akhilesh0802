@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akhilesh Bhadouriya and I'm a 2nd Year MCA student @NIT Raipur</p>
+<p align="left">My name is Akhilesh Bhadouriya and I'm a 3rd Year MCA student @NIT Raipur</p>
 
 ###
 
